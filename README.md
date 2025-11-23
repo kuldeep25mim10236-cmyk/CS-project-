@@ -1,4 +1,4 @@
-Fastcarr
+Fastcart
 A simple e-commerce web application built with Flask and JavaScript.
 
 What is this?
